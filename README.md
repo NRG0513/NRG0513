@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gábor @NRG0513
 - 👀 I’m interested in Python, Data Science, AI, ML, DL
-- 🌱 I’m currently learning Python, Data Science, AI, ML, DL. Also aiming to get a certifications.
+- 🌱 I’m currently learning Python, Data Science, AI, ML, DL. Also aiming to get certifications in those areas mentioned.
 
 
 <!---
