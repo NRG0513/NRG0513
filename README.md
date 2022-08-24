@@ -14,10 +14,11 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+INFOS:
 https://devicon.dev/
 https://shields.io/
-
 https://img.shields.io/static/v1?label=&message=Python&color=bbc1d2&style=flat&logo=python
+https://github.com/codestackr#languages-and-tools
 
 
 <img src="https://img.shields.io/static/v1?label=&message=vscode&color=blue&style=flat&logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=jupyter&color=blue&style=flat&logo=jupyter&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=python&color=blue&style=flat&logo=python&logoColor=ffffff"> <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=ffffff&color=blue&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=github&color=blue&style=flat&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=numpy&color=blue&style=flat&logo=numpy&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=tensorflow&color=blue&style=flat&logo=tensorflow&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=pytorch&color=blue&style=flat&logo=pytorch&logoColor=ffffff">
