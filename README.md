@@ -2,7 +2,8 @@
 
 ### About me
 - 👀 I’m interested in everything in relation to AI
-- 🌱 I’m currently learning Python, ML, DL
+- 🌱 I’m currently learning DL algos :hurtrealbad: :goberserk:
+- 🎯 2022 Goals: solo projects with <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a> Tensorflow and <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="15" width="15" title="pytorch"/></a> Pytorch
 
 ### Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" height="26" width="26"/></a>
@@ -26,6 +27,7 @@ https://devicon.dev/
 https://shields.io/
 https://img.shields.io/static/v1?label=&message=Python&color=bbc1d2&style=flat&logo=python
 https://github.com/codestackr#languages-and-tools
+https://gist.github.com/rxaviers/7360908
 
 
 <img src="https://img.shields.io/static/v1?label=&message=vscode&color=blue&style=flat&logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=jupyter&color=blue&style=flat&logo=jupyter&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=python&color=blue&style=flat&logo=python&logoColor=ffffff"> <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=ffffff&color=blue&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=github&color=blue&style=flat&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=numpy&color=blue&style=flat&logo=numpy&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=tensorflow&color=blue&style=flat&logo=tensorflow&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=pytorch&color=blue&style=flat&logo=pytorch&logoColor=ffffff">
