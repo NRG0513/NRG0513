@@ -1,4 +1,4 @@
-# Hi, 👋 I’m Gábor
+## Hi, 👋 I’m Gábor
 
 ### About me
 - 👀 I’m interested in everything in relation to AI
