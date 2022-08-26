@@ -15,12 +15,18 @@
 <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26" width="26" title="numpy"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="26" width="26" title="tensorflow"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="26" width="26" title="pytorch"/></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NRG0513"/>
 <!---
 NRG0513/NRG0513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NRG0513"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NRG0513&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NRG0513&show_icons=true&theme=dark"/>
 
 INFOS:
 https://devicon.dev/
