@@ -3,5 +3,6 @@ informations = ["👀 I’m interested in everything in relation to AI",
                 "🎯 2022 Goals: solo projects with [tensorflow] Tensorflow and [pytorch] Pytorch"]
 
 def aboutMe():
+    print(f"About me:")
     for info in informations:
         print(info)
