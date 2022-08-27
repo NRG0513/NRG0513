@@ -42,4 +42,3 @@ def gallery(images, row_height='auto'):
         {''.join(figures)}
         </div>
     ''')
-clear_output(wait=True)

@@ -1,5 +1,6 @@
 from matplotlib.pyplot import figure, imshow, axis
 from matplotlib.image import imread
+from IPython.display import clear_output
 
 compiledText = []
 
@@ -19,5 +20,6 @@ def gettingLnTs():
         htmlCode = f"https://raw.githubusercontent.com/NRG0513/NRG0513/main/Images/png/{listOfImgData[i][1]}.png"
         
         compiledText.append(htmlCode)
-        
+    
+    clear_output(wait=True)
     return compiledText
