@@ -1,4 +1,4 @@
-from IPython.display import HTML, Image
+from IPython.display import HTML, Image, clear_output
 
 def _src_from_data(data):
     """Base64 encodes image bytes for inclusion in an HTML img element"""
@@ -24,6 +24,7 @@ def gallery(images, row_height='auto'):
     
     figures = []
     for image in images:
+        clear_output(wait=True) # Clears previously printed outputs
         if isinstance(image, bytes):
             src = _src_from_data(image)
             caption = ''
