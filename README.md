@@ -2,7 +2,7 @@
 
 ### About me
 - 👀 I’m interested in everything in relation to AI
-- 🌱 I’m currently learning DL algos :hurtrealbad: :goberserk:
+- 🌱 I’m currently learning more about <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a>
 - 🎯 2022 Goals: solo projects with <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a> Tensorflow and <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="15" width="15" title="pytorch"/></a> Pytorch
 
 ### Languages and Tools
@@ -18,9 +18,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRG0513"/>
 <!---
+
+
 NRG0513/NRG0513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+- 🌱 I’m currently learning DL algos :hurtrealbad: :goberserk:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
