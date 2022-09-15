@@ -3,7 +3,7 @@
 ### About me
 - 👀 I’m interested in everything in relation to AI
 - 🌱 I’m currently learning more about <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a> TensorFlow
-- 🎯 2022 Goals: solo projects with <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a> TensorFlow and <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="15" width="15" title="pytorch"/></a> PyTorch
+- 🎯 2022 Goals: creating projects with <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="15" width="15" title="tensorflow"/></a> TensorFlow and learning more about <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="15" width="15" title="pytorch"/></a> PyTorch
 
 ### Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" height="26" width="26"/></a>
